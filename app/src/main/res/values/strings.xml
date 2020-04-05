@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Open Weather API</string>
+    <string name="type_city_here">Type city here</string>
+    <string name="icon_weather">icon weather</string>
+    <string name="city_is_empty">city can\'t be empty</string>
+    <string name="search">Search</string>
+
+    <string name="temperature_max">&#8593; Day %s &#x2103;</string>
+    <string name="temperature_min">&#8595; Night %s &#x2103;</string>
+    <string name="temperature">%s &#x2103;</string>
+    <string name="feels_like">feels like %s &#x2103;</string>
+    <string name="wind">wind %s km/h</string>
+</resources>

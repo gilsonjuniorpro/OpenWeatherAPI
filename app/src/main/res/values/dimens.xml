@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size_temperature">58sp</dimen>
+    <dimen name="font_size_text_fields">18sp</dimen>
+    <dimen name="font_size_text_city">48sp</dimen>
+    <dimen name="font_size_text_feels_like">12sp</dimen>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="icon_size">100dp</dimen>
+</resources>
